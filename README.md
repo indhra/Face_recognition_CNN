@@ -1,5 +1,5 @@
 # Introduction
-* Actors photo dataset
+* Hollywod movie Actors photo dataset
 
 
 ## Requires Python 3.10.1
